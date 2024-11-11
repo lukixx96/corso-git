@@ -1,0 +1,6 @@
+
+#Directories
+temp
+
+#Root
+*.log
